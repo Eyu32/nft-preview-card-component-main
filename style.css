@@ -29,11 +29,6 @@
     margin: 0;
 }
 
-html,
-body{
-    height: 100%;
-}
-
 body{
     line-height: 1.7;
     height: 100vh;
@@ -42,7 +37,6 @@ body{
     align-items: center;
     justify-content: center;
     gap:1rem;
-    padding-top: 200px;
     -webkit-font-smoothing: antialiased;
     background: var(--clr-bg-main);
     font-family: var(--ff);
@@ -82,9 +76,6 @@ h6{
 main{
     --border-radius: .475rem;
     display: flex;
-    height: fit-content;
-/*     flex-direction: column; */
-/*     gap: 1.5rem; */
     justify-content: center;
     align-items: center;
     
