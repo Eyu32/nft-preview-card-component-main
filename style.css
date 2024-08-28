@@ -87,6 +87,9 @@ main{
 /*     gap: 1.5rem; */
     justify-content: center;
     align-items: center;
+    position: relative;
+    top: 10%;
+    
 }
 .product-card{
     background: var(--clr-bg-card);
