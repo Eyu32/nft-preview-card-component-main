@@ -42,7 +42,7 @@ body{
     align-items: center;
     justify-content: center;
     gap:1rem;
-    padding-top: 130px;
+    padding-top: 200px;
     -webkit-font-smoothing: antialiased;
     background: var(--clr-bg-main);
     font-family: var(--ff);
@@ -87,8 +87,6 @@ main{
 /*     gap: 1.5rem; */
     justify-content: center;
     align-items: center;
-    position: relative;
-    top: 4%;
     
 }
 .product-card{
