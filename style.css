@@ -74,9 +74,9 @@ h6{
 
 main{
     --border-radius: .475rem;
-    flex-direction: column;
     height: 100vh;
     display: flex;
+    flex-direction: column;
     gap: 1.5rem;
 /*     justify-content: center; */
     
