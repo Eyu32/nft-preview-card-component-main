@@ -74,10 +74,13 @@ h6{
 
 main{
     --border-radius: .475rem;
+    flex-direction: column;
+    height: 100vh;
     display: flex;
-    justify-content: center;
+    gap: 1.5rem;
+/*     justify-content: center; */
+    
     align-items: center;
-    padding-top: 4%;
 }
 .product-card{
     background: var(--clr-bg-card);
