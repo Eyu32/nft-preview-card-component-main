@@ -42,9 +42,9 @@ body{
     align-items: center;
     justify-content: center;
     gap:1rem;
-    padding-top: 15%;
+    padding-top: 200px;;
     -webkit-font-smoothing: antialiased;
-/*     background: var(--clr-bg-main); */
+    background: var(--clr-bg-main);
     font-family: var(--ff);
     color: var(--clr-soft-blue);
     font-size: var(--fs);
